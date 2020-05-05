@@ -1,23 +1,19 @@
-# Codio Python Project Template
-This starterpack serves as a template for Python projects in Codio.
+# Creating Python programs in Codio
 
-## Open hello_world.py via file tree
-Click on the hello_world.py file in the file tree to open it in the code editor.
+### Make a new file
+Use **File > New File...** or right-click in the file tree to create a new file. You can right-click in the file tree to rename or delete files.
 
-You can right-click in the file tree to rename this file or delete it and start from a new file (see below).
+As Codio detects which file is in focus, simply put your cursor into whichever code editor you want to run.
 
-## Run
+### Run your code
 Use the Run button (that looks like a Rocketship) to Run the file your cursor is in.
 
-## Debug your Code
+### Debug your code
 Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the file your cursor is in.
 
-## Reconfigure your Panels for easier development
+### Reconfigure your Panels for easier development
 Use the **View > Panels** menu on the top tool bar to segment your screen.
 
 Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
 
-## Make a new file
-Use **File > New File...** or right-click in the file tree to create a new file.
 
-As Codio detects which file is in focus, simply put your cursor into whichever code editor you want to run.
