@@ -9,6 +9,9 @@ You can right-click in the file tree to rename this file or delete it and start 
 ## Run
 Use the Run button (that looks like a Rocketship) to Run the file your cursor is in.
 
+## Debug your Code
+Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the file your cursor is in.
+
 ## Reconfigure your Panels for easier development
 Use the **View > Panels** menu on the top tool bar to segment your screen.
 
